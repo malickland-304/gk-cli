@@ -5,6 +5,171 @@
     },
     "linear": {
       "enabled": true
+    },
+    "firebase": {
+      "enabled": true
+    },
+    "datadog": {
+      "enabled": true
+    },
+    "encore": {
+      "enabled": true
+    },
+    "aws-amplify": {
+      "enabled": true
+    },
+    "aws-serverless": {
+      "enabled": true
+    },
+    "migration-to-aws": {
+      "enabled": true
+    },
+    "amazon-location-service": {
+      "enabled": true
+    },
+    "jfrog": {
+      "enabled": true
+    },
+    "mongodb": {
+      "enabled": true
+    },
+    "planetscale": {
+      "enabled": true
+    },
+    "slack": {
+      "enabled": true
+    },
+    "pagerduty": {
+      "enabled": true
+    },
+    "clerk": {
+      "enabled": true
+    },
+    "render": {
+      "enabled": true
+    },
+    "redis-development": {
+      "enabled": true
+    },
+    "functions": {
+      "enabled": true
+    },
+    "sentry": {
+      "enabled": true
+    },
+    "cloudflare": {
+      "enabled": true
+    },
+    "vercel": {
+      "enabled": true
+    },
+    "atlassian": {
+      "enabled": true
+    },
+    "cloudinary": {
+      "enabled": true
+    },
+    "firecrawl": {
+      "enabled": true
+    },
+    "neon-postgres": {
+      "enabled": true
+    },
+    "cli-for-agent": {
+      "enabled": true
+    },
+    "azure-cosmosdb": {
+      "enabled": true
+    },
+    "convex": {
+      "enabled": true
+    },
+    "supabase": {
+      "enabled": true
+    },
+    "create-plugin": {
+      "enabled": true
+    },
+    "agent-compatibility": {
+      "enabled": true
+    },
+    "cursor-team-kit": {
+      "enabled": true
+    },
+    "plain": {
+      "enabled": true
+    },
+    "parallel": {
+      "enabled": true
+    },
+    "context7-plugin": {
+      "enabled": true
+    },
+    "browse": {
+      "enabled": true
+    },
+    "dbt": {
+      "enabled": true
+    },
+    "miro": {
+      "enabled": true
+    },
+    "webflow": {
+      "enabled": true
+    },
+    "superpowers": {
+      "enabled": true
+    },
+    "omni-analytics": {
+      "enabled": true
+    },
+    "endorlabs": {
+      "enabled": true
+    },
+    "prisma": {
+      "enabled": true
+    },
+    "gitlab": {
+      "enabled": true
+    },
+    "data": {
+      "enabled": true
+    },
+    "hex": {
+      "enabled": true
+    },
+    "grafana-assistant": {
+      "enabled": true
+    },
+    "zapier": {
+      "enabled": true
+    },
+    "notion-workspace": {
+      "enabled": true
+    },
+    "sanity": {
+      "enabled": true
+    },
+    "postman": {
+      "enabled": true
+    },
+    "clickhouse-cursor-plugin": {
+      "enabled": true
+    },
+    "deploy-on-aws": {
+      "enabled": true
+    },
+    "meta-quest-agentic-tools": {
+      "enabled": true
+    },
+    "runlayer": {
+      "enabled": true
+    },
+    "antimetal": {
+      "enabled": true
+    },
+    "braintrust": {
+      "enabled": true
     }
   }
 }
